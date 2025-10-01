@@ -81,7 +81,7 @@ push();
 translate(col4,row5); 
 rectMode(CENTER);
 fill(224,25,130);
-rotate(angle2)
+rotate(angle2);
 rect(0,0,colSize*2,rowSize*3);
 pop();
 
